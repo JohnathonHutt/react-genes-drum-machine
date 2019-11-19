@@ -5,12 +5,12 @@ import ReactDOM from 'react-dom';
 import './styles.css';
 
 const audioData = [
-  {display: "F Minor", letter: "Q", type: "audio/wav", src: "https://www.pacdv.com/sounds/fart-sounds/fart-2.wav"},
-  {display: "F Major", letter: "W", type: "audio/mp3", src: "https://www.pacdv.com/sounds/fart-sounds/fart-7.mp3"},
-  {display: "Clap", letter: "E", type: "audio/mp3", src: "https://s3.amazonaws.com/freecodecamp/drums/Heater-6.mp3"},
-  {display: "Heater 1", letter: "A", type: "audio/mp3", src: "https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3"},
-  {display: "Heater 2",letter: "S", type: "audio/mp3", src: "https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3"},
-  {display: "Heater 3", letter: "D", type: "audio/mp3", src: "https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3"},
+  {display: "Dog", letter: "Q", type: "audio/wav", src: "bark.wav"},
+  {display: "F Minor", letter: "W", type: "audio/wav", src: "https://www.pacdv.com/sounds/fart-sounds/fart-2.wav"},
+  {display: "F Major", letter: "E", type: "audio/mp3", src: "https://www.pacdv.com/sounds/fart-sounds/fart-7.mp3"},
+  {display: "Clap", letter: "A", type: "audio/mp3", src: "https://s3.amazonaws.com/freecodecamp/drums/Heater-6.mp3"},
+  {display: "Heater 1", letter: "S", type: "audio/mp3", src: "https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3"},
+  {display: "Heater 2",letter: "D", type: "audio/mp3", src: "https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3"},
   {display: "Chord 1", letter: "Z", type: "audio/mp3", src: "https://s3.amazonaws.com/freecodecamp/drums/Chord_1.mp3"},
   {display: "Chord 2", letter: "X", type: "audio/mp3", src: "https://s3.amazonaws.com/freecodecamp/drums/Chord_2.mp3"},
   {display: "Chord 3", letter: "C", type: "audio/mp3", src: "https://s3.amazonaws.com/freecodecamp/drums/Chord_3.mp3"}
